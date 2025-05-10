@@ -34,18 +34,3 @@ SoftSell is a web platform built with **React** and **Vite** designed to empower
 * Multilingual support.
 * Secure payment methods (Stripe, Razorpay).
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For questions, email [support@softsell.com](mailto:support@softsell.com).
-
-```
-
-### Key Adjustments:
-- Simplified project description and features.
-- Reduced length for easier readability and quick understanding.
-- Focused on essential setup steps, tech stack, and features.
-```
