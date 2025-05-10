@@ -13,11 +13,6 @@ SoftSell is a web platform built with **React** and **Vite** designed to empower
 
 ## Getting Started
 
-1. Clone the repository:
-
-   
-   git clone https://github.com/yourusername/softsell.git
-
 
 2. Install dependencies:
 
